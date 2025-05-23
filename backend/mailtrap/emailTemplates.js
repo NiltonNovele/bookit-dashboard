@@ -45,7 +45,7 @@ export const PASSWORD_RESET_SUCCESS_TEMPLATE = `
     <p>We're writing to confirm that your password has been successfully reset.</p>
     <div style="text-align: center; margin: 30px 0;">
       <div style="background-color: #4CAF50; color: white; width: 50px; height: 50px; line-height: 50px; border-radius: 50%; display: inline-block; font-size: 30px;">
-        ✓
+        
       </div>
     </div>
     <p>If you did not initiate this password reset, please contact our support team immediately.</p>
